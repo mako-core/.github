@@ -8,6 +8,8 @@ Mako is the premium document and page description language (PDL) SDK of choice.
 
 Our SDK has been used extensively across multiple platforms and clouds, including AWS and Azure, with great success. This includes contanerized workloads and serverless functions. We also span multiple areas, including print management, pre-press processing (pre-flighting, etc), document management, conversion, accessibility and much more. 
 
+Want a little more detail? Take a look at our [developer site](https://documentation.globalgraphics.com/support/mako/mako-core) for some [samples](https://documentation.globalgraphics.com/support/mako/mako-core/samples) and [topics](https://documentation.globalgraphics.com/support/mako/mako-core/knowledge-base).
+
 # What makes us unique and special?
 Our Mako SDK is our pride and joy, and it's built upon a staggering amount of industry experience by some of the best engineers in print.
 
@@ -38,7 +40,8 @@ And our support for documentent types, either input or output, is second to none
 - PDF (With many different versions and standards)
 - XPS
 - OXPS
-- PCL (And variants)
+- PCL5
+- PCL/XL
 - PostScript
 
 And renderers, both generic and platform specific and hardware accellerated, including:
