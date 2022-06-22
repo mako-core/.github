@@ -1,23 +1,44 @@
 # Mako Core SDK
-We believe strongly that the Mako Core SDK is both powerful while extremely easy to use. Just want to convert a document? All it takes is a few lines (fewer still if you have a wide screen monitor). Looking for more complex use cases such as overprint or color management? It's all here. This area aims to provide simple and clear examples of how to use Mako in your next application. 
+We believe strongly that the Mako Core SDK is both powerful while extremely easy to use. Just want to convert a document? All it takes is a few lines (fewer still if you have a wide screen monitor). Looking for more complex use cases such as overprint or color management? It's all here.
 
 We also have public projects such as our IPP Printer.
 
 # What can you do with Mako?
-Mako is the premium document and page description language (PDL) SDK of choice.
+Mako is the premium document, printing and page description language (PDL) SDK of choice.
 
-Our SDK has been used extensively across multiple platforms and clouds, including AWS and Azure, with great success. This includes contanerized workloads and serverless functions. We also span multiple areas, including print management, pre-press processing (pre-flighting, etc), document management, conversion, accessibility and much more. 
+Our SDK has been used extensively across multiple platforms and clouds, including AWS and Azure, with great success. This includes contanerized workloads and serverless functions. 
+
+We also span multiple areas, including print management, pre-press processing (pre-flighting, etc), document management, conversion, variable data, rendering, proofing and much more. 
 
 Want a little more detail? Take a look at our [developer site](https://documentation.globalgraphics.com/support/mako/mako-core) for some [samples](https://documentation.globalgraphics.com/support/mako/mako-core/samples) and [topics](https://documentation.globalgraphics.com/support/mako/mako-core/knowledge-base).
 
 # What makes us unique?
+
 Our Mako SDK is our pride and joy, and it's built upon a staggering amount of industry experience by some of the best engineers in print.
 
-Infact, our company, Global Graphics, was the trusted partner to help develop the XPS specification with Microsoft, which is a core part of Windows printing. You'll also find us sitting on a number of the PDF working groups, making sure that the PDF format continues to work for everyone, well into the future.
+## Our History
+The roots of the company go back to 1986 and to Cambridge (UK), and today the majority of the R&D team is still based near this iconic university city. Mako's engineering has benefitted from our rich history of innovation and market leading products, including the Harlequin and Jaws RIPs.
 
-Feature wise, we have a page discription language (PDL) agnoistic document object model (DOM). This means that regardless of your required input or output, you can use the same consistent DOM to make your modifications to your document. Save time and code, and write it once with Mako!
+## We are Industry Leaders 
+Global Graphics Software, was the trusted partner to help develop the XPS specification with Microsoft, which is a core part of Windows printing. 
+
+You'll also find us sitting on a number of the PDF working groups, making sure that the PDF format continues to work for everyone, well into the future. 
+
+## Our Features
+One of our unique features is a page discription language (PDL) agnoistic document object model (DOM). This means that regardless of your input or output, you can use the same consistent DOM to edit your document. 
+
+Save time and code, and write it once with Mako!
+
+## Trusted
 
 You're also in good company. We've helped some of the biggest companies in the industry with their challenges, with great success.
+
+<p align="center">
+  <img src="https://www.globalgraphics.com/application/files/5216/1226/3287/logo-hp.svg" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.globalgraphics.com/application/files/3616/1226/4378/logo-myq.svg" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.globalgraphics.com/application/files/3316/3724/4262/logo-eyec.png" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.globalgraphics.com/application/files/5016/1226/4608/inedit-logo-color.svg" height="50" />
+</p>
 
 # Technical details
 
