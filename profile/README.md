@@ -10,10 +10,10 @@ Our SDK has been used extensively across multiple platforms and clouds, includin
 
 Want a little more detail? Take a look at our [developer site](https://documentation.globalgraphics.com/support/mako/mako-core) for some [samples](https://documentation.globalgraphics.com/support/mako/mako-core/samples) and [topics](https://documentation.globalgraphics.com/support/mako/mako-core/knowledge-base).
 
-# What makes us unique and special?
+# What makes us unique?
 Our Mako SDK is our pride and joy, and it's built upon a staggering amount of industry experience by some of the best engineers in print.
 
-Infact, our company, Global Graphics, was the trusted partner to help develop the XPS specification with Microsoft. You'll also find us sitting on a number of the PDF working groups, making sure that the PDF format continues to work for everyone, well into the future.
+Infact, our company, Global Graphics, was the trusted partner to help develop the XPS specification with Microsoft, which is a core part of Windows printing. You'll also find us sitting on a number of the PDF working groups, making sure that the PDF format continues to work for everyone, well into the future.
 
 Feature wise, we have a page discription language (PDL) agnoistic document object model (DOM). This means that regardless of your required input or output, you can use the same consistent DOM to make your modifications to your document. Save time and code, and write it once with Mako!
 
