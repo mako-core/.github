@@ -31,13 +31,13 @@ Save time and code, and write it once with Mako!
 
 ## Trusted
 
-You're also in good company. We've helped some of the biggest companies in the industry with their challenges, with great success.</br></br>
+You're also in good company. We've helped some of the biggest companies in the industry with their challenges, with great success.</br>
 
 <p align="center">
-  <img src="logo-gh-hp.svg" height="70" />
-  <img src="logo-gh-myq.svg" height="70" />
-  <img src="logo-gh-eyec.svg" height="70" />
-  <img src="logo-gh-inedit.svg" height="70" />
+  <img src="logo-gh-hp.svg" height="100" />
+  <img src="logo-gh-myq.svg" height="100" />
+  <img src="logo-gh-eyec.svg" height="100" />
+  <img src="logo-gh-inedit.svg" height="100" />
 </p>
 
 # Technical details
